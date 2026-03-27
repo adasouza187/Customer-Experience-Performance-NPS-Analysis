@@ -53,10 +53,6 @@ O projeto foi estruturado utilizando boas práticas de modelagem dimensional (mo
 <img width="961" height="491" alt="image" src="https://github.com/user-attachments/assets/ed3fad65-aad1-4312-8cd1-a44492e50dad" />
 <img width="904" height="495" alt="image" src="https://github.com/user-attachments/assets/c559d92e-0b47-4177-85d5-3375d3671ec1" />
 
-
-
-> 📌 *Substitua "dashboard.png" pelo nome da imagem que você subir no repositório.*
-
 ---
 
 ## 📁 Arquivo
